@@ -15,7 +15,7 @@
             <td width="190" bgcolor="#FFFF66"><ul>
 				<li><a href="home.php">หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
-				<li><a herf="guest.php">สมุดเยี่ยม</li>
+				<li><a herf="guest.php">สมุดเยี่ยม test</li>
 				<li><a href="contact.php">ติดต่อ</li>
 				<!-- <li><a href="comment.php">แสดงความคิดเห็น</li> -->
 				</ul><p>
